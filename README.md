@@ -7,11 +7,8 @@
 
 ## 📊 Estatísticas
 
-<a href="https://github.com/lais-codes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lais-codes&show_icons=true&theme=radical&locale=pt-br" />
-</a>
-<a href="https://github.com/lais-codes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-codes&layout=compact&theme=radical" />
-</a>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lais-codes&show_icons=true&theme=radical&locale=pt-br)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lais-codes&layout=compact&theme=radical)
 
 ---
