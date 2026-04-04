@@ -15,3 +15,5 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
+![Snake animation](https://github.com/lais-codes/lais-codes/blob/output/github-contribution-grid-snake-dark.svg)
