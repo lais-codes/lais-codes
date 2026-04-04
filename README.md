@@ -1,6 +1,7 @@
 ## Olá, eu sou a Lais! ✨
 
 🖥️ Desenvolvedora Full Stack JavaScript em formação
+
 📚 Atualmente aprendendo JavaScript, TypeScript, NestJS, SQL, Git e desenvolvimento backend 
 
 ---
