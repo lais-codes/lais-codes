@@ -1,16 +1,37 @@
-## Olá, eu sou a Lais! ✨ <br><br>
+## Olá, eu sou a Lais! ✨
+
 ---
 
-🖥️ Desenvolvedora Full Stack JavaScript<br>
-📚 Experiência prática com JavaScript, TypeScript, React, Node.js e SQL<br>
-🚀 Apaixonada por desafios, resolução de problemas e aprendizado contínuo.<br><br>
+🖥️ Desenvolvedora Full Stack JavaScript
+📚 Experiência prática com JavaScript, TypeScript, React, Node.js e SQL
+🚀 Apaixonada por desafios, resolução de problemas e aprendizado contínuo.
+
 ---
 
-🚀 Sobre mim<br><br>🥗 Formada em Nutrição — trouxe para tech a mesma lógica de analisar sistemas e encontrar soluções<br>🌱 Atualmente me dedicando ao Desenvolvimento Fullstack com o ecossistema JavaScript<br>🎯 Em busca da minha primeira oportunidade como desenvolvedora<br>🧶 Curiosidade: sou apaixonada por cultura (e comida!) asiática (atualmente estou aprendendo Mandarim e Japonês) e faço crochê quando preciso desacelerar<br><br><br>🛠️ Tecnologias & Ferramentas<br><br>Linguagens: JavaScript, TypeScript<br>Front-end: HTML, CSS, React<br>Back-end: Node.js, NestJS<br>Banco de dados: MySQL, MongoDB<br>Ferramentas: Git, GitHub, VS Code<br><br><br>
+# 🚀 Sobre mim
+
+🥗 Formada em Nutrição — trouxe para tech a mesma lógica de analisar sistemas e encontrar soluções
+🌱 Atualmente me dedicando ao Desenvolvimento Fullstack com o ecossistema JavaScript
+🎯 Em busca da minha primeira oportunidade como desenvolvedora
+🥠 Curiosidade: sou apaixonada por cultura (e comida!) asiática (atualmente estou aprendendo Mandarim e Japonês) e faço crochê quando preciso desacelerar 🧶
+
 ---
 
-🌐 Conecte-se comigo<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lais-b-sousa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lais.b.sousa7@gmail.com) 
+# 🛠️ Tecnologias & Ferramentas
+
+Linguagens: JavaScript, TypeScript
+Front-end: HTML, CSS, React
+Back-end: Node.js, NestJS
+Banco de dados: MySQL
+Ferramentas: Git, GitHub, VS Code
+
+---
+
+# 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lais-b-sousa) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lais.b.sousa7@gmail.com) 
+
 ---
 
 # 💻 Tech Stack:
